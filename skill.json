@@ -1,0 +1,26 @@
+{
+  "name": "wechat-writer",
+  "version": "1.0.0",
+  "description": "公众号深度好文创作助手 - 通过引导式对话帮助创作者孵化有价值、有温度、有个人风格的文章",
+  "author": "user",
+  "entry": "skill.md",
+  "models": {
+    "default": "sonnet"
+  },
+  "capabilities": [
+    "选题验证（专业性/需求/时效性）",
+    "素材挖掘（经历/观点/数据）",
+    "叙事框架构建",
+    "分段写作 + 批判审查",
+    "信息密度控制",
+    "个人语言风格融入",
+    "HKR质量检验"
+  ],
+  "tags": [
+    "writing",
+    "content-creation",
+    "wechat",
+    "guided-workflow",
+    "style-learning"
+  ]
+}
